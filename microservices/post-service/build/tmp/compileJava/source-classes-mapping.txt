@@ -1,0 +1,10 @@
+ch/example/microservices/core/post/domain/Post.java
+ ch.example.microservices.core.post.domain.Post
+ch/example/microservices/core/post/service/PostService.java
+ ch.example.microservices.core.post.service.PostService
+ch/example/microservices/core/post/service/PostServiceImpl.java
+ ch.example.microservices.core.post.service.PostServiceImpl
+ch/example/microservices/core/post/PostServiceApplication.java
+ ch.example.microservices.core.post.PostServiceApplication
+ch/example/microservices/core/post/controller/PostController.java
+ ch.example.microservices.core.post.controller.PostController

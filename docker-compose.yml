@@ -1,0 +1,12 @@
+version: '2.1'
+
+services:
+  post:
+    build: microservices/post-service
+    environment:
+      - SPRING_PROFILES_ACTIVE=docker
+
+  user:
+    build: microservices/user-service
+    environment:
+      - SPRING_PROFILES_ACTIVE=docker

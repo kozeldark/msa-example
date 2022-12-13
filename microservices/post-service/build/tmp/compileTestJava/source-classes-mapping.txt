@@ -1,0 +1,2 @@
+ch/example/microservices/core/post/PostServiceApplicationTests.java
+ ch.example.microservices.core.post.PostServiceApplicationTests

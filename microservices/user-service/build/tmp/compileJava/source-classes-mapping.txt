@@ -1,0 +1,10 @@
+ch/example/microservices/core/user/UserServiceApplication.java
+ ch.example.microservices.core.user.UserServiceApplication
+ch/example/microservices/core/user/service/AuthService.java
+ ch.example.microservices.core.user.service.AuthService
+ch/example/microservices/core/user/domain/User.java
+ ch.example.microservices.core.user.domain.User
+ch/example/microservices/core/user/controller/UserController.java
+ ch.example.microservices.core.user.controller.UserController
+ch/example/microservices/core/user/service/UserServiceImpl.java
+ ch.example.microservices.core.user.service.UserServiceImpl

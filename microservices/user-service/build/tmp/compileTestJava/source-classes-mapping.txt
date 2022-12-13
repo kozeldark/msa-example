@@ -1,0 +1,2 @@
+ch/example/microservices/core/user/UserServiceApplicationTests.java
+ ch.example.microservices.core.user.UserServiceApplicationTests

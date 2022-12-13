@@ -1,0 +1,10 @@
+mj/song/util/http/ServiceUtil.java
+ ch.example.util.http.ServiceUtil
+mj/song/util/exceptions/NotFoundException.java
+ ch.example.util.exceptions.NotFoundException
+mj/song/util/http/GlobalControllerExceptionHandler.java
+ ch.example.util.http.GlobalControllerExceptionHandler
+mj/song/util/http/HttpErrorInfo.java
+ ch.example.util.http.HttpErrorInfo
+mj/song/util/exceptions/InvalidInputException.java
+ ch.example.util.exceptions.InvalidInputException
